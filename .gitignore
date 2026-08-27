@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+dist/
+build/
+*.spec
+config*.json
+models/
+test-artifacts/
+.env
+.env.*
+*.log
+*.part
+settings.json
